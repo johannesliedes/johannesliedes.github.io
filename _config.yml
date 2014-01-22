@@ -1,7 +1,7 @@
-name: My Personal Academic website
+name: Johannes Liedes website
 description: Something here
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
 pygments: false
-url: http://digieast.github.io/
+url: http://johannesliedes.github.io/
